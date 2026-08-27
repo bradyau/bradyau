@@ -8,6 +8,6 @@ More than two decades in, I am still obsessed with sharp ideas, clean execution,
 
 Currently exploring lean WordPress systems, expressive frontend interaction, accessibility, performance, and practical AI-enabled workflows.
 
-[Atomic WP Starter](https://github.com/bradyau/atomic-wp-starter) · [Interaction Studies](https://github.com/bradyau/interaction-studies) · [Site Quality Gate](https://github.com/bradyau/site-quality-gate)
+[Explore Atomic WP Starter](https://github.com/bradyau/atomic-wp-starter)
 
 Working on something thoughtful, difficult, or a little unusual? [Let's talk](https://atomicstudio.io) or [connect on LinkedIn](https://www.linkedin.com/in/bradyau/).
