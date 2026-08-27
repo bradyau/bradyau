@@ -12,7 +12,7 @@ I use AI throughout the development process to explore more directions, accelera
 
 ## Working principles
 
-- Start with the problem, content, and constraints—not a preferred stack.
+- Start with the problem, content, and constraints, not a preferred stack.
 - Keep the implementation as simple as the project allows.
 - Treat accessibility, responsiveness, and performance as build requirements.
 - Use AI and automation to widen exploration and increase consistency, not to avoid judgment.
