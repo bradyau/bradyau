@@ -1,6 +1,6 @@
 # Brad Yau
 
-I am a senior web developer at [Bluebeam](https://www.bluebeam.com/) and the founder of [Atomic Studio](https://atomicstudio.io).
+I am a Senior Web Developer at [Bluebeam](https://www.bluebeam.com/) and the founder of [Atomic Studio](https://atomicstudio.io).
 
 For more than two decades, I have worked across strategy, interface design, frontend development, WordPress architecture, and the practical details that keep a website useful after launch. At Bluebeam, I work on public-facing web systems inside a larger organization. Through Atomic Studio, I work directly with clients from early decisions through launch and long-term care.
 
@@ -12,4 +12,10 @@ AI is part of my day-to-day workflow for research, exploration, implementation, 
 
 I am focused on lean custom WordPress, accessible frontend systems, performance, and durable workflows for teams that need to keep publishing. I start with the problem, content, and constraints, then build the simplest system that can do the job well. Accessibility, responsive behavior, and performance are part of the build, not cleanup tasks at the end.
 
-You can see selected work at [bradyau.com](https://bradyau.com), learn about the studio at [atomicstudio.io](https://atomicstudio.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/bradyau/).
+## Selected repositories
+
+- [Atomic WP Starter](https://github.com/bradyau/atomic-wp-starter) is a lightweight WordPress theme foundation with semantic templates, accessible navigation, lean defaults, deterministic checks, and a single-root release package.
+- [Interaction Studies](https://github.com/bradyau/interaction-studies) contains three dependency-free frontend studies built with native controls, progressive enhancement, reduced-motion support, and keyboard-tested behavior.
+- [Site Quality Gate](https://github.com/bradyau/site-quality-gate) is a repeatable release check for accessibility, responsive overflow, link health, browser performance budgets, and repository hygiene.
+
+You can see selected work at [bradyau.com](https://www.bradyau.com/), learn about the studio at [atomicstudio.io](https://atomicstudio.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/bradyau/).
