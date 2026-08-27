@@ -1,27 +1,15 @@
 # Brad Yau
 
-Art director and web developer. Founder of [Atomic Studio](https://atomicstudio.io).
+I am a senior web developer at [Bluebeam](https://www.bluebeam.com/) and the founder of [Atomic Studio](https://atomicstudio.io).
 
-I design and build thoughtful websites for organizations that care about clarity, craft, and longevity. For more than two decades, my work has spanned strategy, interface design, frontend development, WordPress architecture, and the less glamorous details that keep a site useful after launch.
+For more than two decades, I have worked across strategy, interface design, frontend development, WordPress architecture, and the practical details that keep a website useful after launch. At Bluebeam, I work on public-facing web systems inside a larger organization. Through Atomic Studio, I work directly with clients from early decisions through launch and long-term care.
 
-Alongside the studio, I have spent more than a decade as a senior web developer at [Bluebeam](https://www.bluebeam.com/), working within larger teams on complex, long-lived web systems.
+Those two perspectives shape how I work. Good digital work depends on more than producing code quickly. It takes client trust, taste, context, and sound decisions about what should scale, what should stay simple, and what will remain maintainable over time.
 
-My current focus is custom, lean WordPress; accessible frontend systems; performance; and durable workflows for teams that need to keep publishing.
+AI is part of my day-to-day workflow for research, exploration, implementation, testing, and documentation. It helps me examine more possibilities and move through repetitive work faster. It does not replace experience, client relationships, taste, long-term thinking, or accountable judgment. I remain responsible for the architecture, the review, the real browser testing, and what ships.
 
-I use AI throughout the development process to explore more directions, accelerate repetitive implementation, strengthen testing, and improve documentation. It amplifies the work; it does not replace the judgment behind it. That judgment comes from more than two decades of shipping real sites, working through client constraints, building trusted relationships, developing taste, and making technical decisions that must remain useful and scalable long after launch. Every output is reviewed, tested in real browsers, and owned by me.
+## Current focus
 
-## Working principles
-
-- Start with the problem, content, and constraints, not a preferred stack.
-- Keep the implementation as simple as the project allows.
-- Treat accessibility, responsiveness, and performance as build requirements.
-- Use AI and automation to widen exploration and increase consistency, not to avoid judgment.
-- Leave behind a system that another person can understand and maintain.
-
-## Current explorations
-
-- A lightweight WordPress foundation for custom marketing sites
-- Small, accessible interaction studies in native HTML, CSS, and JavaScript
-- Repeatable quality checks for accessibility and frontend performance
+I am focused on lean custom WordPress, accessible frontend systems, performance, and durable workflows for teams that need to keep publishing. I start with the problem, content, and constraints, then build the simplest system that can do the job well. Accessibility, responsive behavior, and performance are part of the build, not cleanup tasks at the end.
 
 You can see selected work at [bradyau.com](https://bradyau.com), learn about the studio at [atomicstudio.io](https://atomicstudio.io), or connect with me on [LinkedIn](https://www.linkedin.com/in/bradyau/).
